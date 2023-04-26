@@ -159,8 +159,8 @@ async function start() {
                                 replacedBody = $.root().html()!
                             }
                           
-                            replacedBody += "<script type='text/javascript' src='https://cdn.jsdelivr.net/gh/masudhossain/proxy-js@main/proxy6.js'></script>"
-                            replacedBody += "<link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/masudhossain/proxy-js@main/style2.css'></link>"
+                            replacedBody += "<script type='text/javascript' src='https://cdn.jsdelivr.net/gh/masudhossain/proxy-js@latest/proxy6.js'></script>"
+                            replacedBody += "<link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/masudhossain/proxy-js@latest/style2.css'></link>"
                             
                         }
                        
